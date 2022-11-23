@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AndyCavedal
+- 👋 Hi, I’m @AndyCavedal.
 - 👀 I’m interested in Graphic Design, Coding and web.
-- 🌱 I’m currently learning javascript and git.
-- 💞️ I’m looking to collaborate on with other students to share knowledge
+- 🌱 I’m currently learning frontend development and git.
+- 💞️ I’m looking to collaborate on with other students to share knowledge.
 - 📫 How to reach me hcavedal@gmail.com
 
 <!---
