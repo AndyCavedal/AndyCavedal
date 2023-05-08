@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AndyCavedal.
-- 👀 I’m interested in Graphic Design, Coding and web.
-- 🌱 I’m currently learning frontend development and git.
-- 💞️ I’m looking to collaborate on with other students to share knowledge.
-- 📫 How to reach me hcavedal@gmail.com
+- 👀 I’m interested in collaborating with other students.
+- 🌱 I’m currently learning Reactjs.
+- 📫 How to reach me hcavedal@gmail.com, Discord <Oni#5749>
 
 <!---
 AndyCavedal/AndyCavedal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
